@@ -17,6 +17,11 @@ BBLUE='\033[44m'
 echo -e "${RED}This text is red${NC}"
 echo -e "${GREEN}This text is green${NC}"
 echo -e "${YELLOW}This text is yellow${NC}"
-#
+
+echo -e "${BLUE}This text is blue${}"
 
 
+# print text with background colors
+echo -e "${BRED}This text has a red background${NC}"
+echo -e "${BGREEN}This text has a green background${NC}"
+echo -e "${BYELLOW}This text has a yellow background${NC}"
