@@ -5,4 +5,3 @@ echo howdy
 echo greetings
 echo salutations
 echo what's up
-echo yo
